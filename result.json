@@ -1,0 +1,16 @@
+{
+  "weatherData": [
+    {
+      "cityName": "London",
+      "degreesCelsius": 8.2
+    },
+    {
+      "cityName": "Moscow",
+      "degreesCelsius": 7.26
+    },
+    {
+      "cityName": "Kazan",
+      "degreesCelsius": 3
+    }
+  ]
+}
